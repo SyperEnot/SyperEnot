@@ -38,7 +38,7 @@
   |-------------------------------------------------------------|-----------------------------------------------------------------|
 | :star:    Проект UI по автоматизации тестировании сайта Т-Ж | [UI_TESTS](https://github.com/SyperEnot/UI_T-journal_project)                                      |  
 | :star:      API проект тестирования  сервиса Reqres.in      | [API_TESTS](https://github.com/SyperEnot/API_project) |  
-| :star:    Проект Mobile автоматизации приложения Wikipedia  | [MOBILE_TESTS](ССЫЛКА на репо)     |  
+| :star:    Проект Mobile автоматизации приложения Wikipedia  | [MOBILE_TESTS](https://github.com/SyperEnot/Mobile_project)     |  
 
 
 
